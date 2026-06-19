@@ -56,7 +56,7 @@ content:`
         <u>WANTED:</u> ฿ </td></tr>
         
         <tr>
-        <td><div style="width: 100px; height: 123px; margin-right: 10px; background: url(https://i.imgur.com/8fdZRYC.png); background-size: 100%; z-index: 2"><div style="transform: translate(16.5px, 20px); width: 68px; height: 86px; position: relative; border-radius: 100%; background: url(https://i.imgur.com/rdhoeh0.jpeg) center; background-size: cover; z-index: 1"></div></div></td><td><b>Ishtar</b><br>
+        <td><div style="width: 100px; height: 123px; margin-right: 10px; background: url(https://i.imgur.com/8fdZRYC.png); background-size: 100%; z-index: 2"><div style="transform: translate(16.5px, 20px); width: 68px; height: 86px; position: relative; border-radius: 100%; background: url(https://i.imgur.com/rdhoeh0.jpeg) center; background-size: cover; z-index: 1"></div></div></td><td><b>Ishtar, Fortune</b><br>
         <u>Cargo:</u> Navegante
         <u>WANTED:</u> ฿ </td></tr></tbody></table>
 

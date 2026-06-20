@@ -111,7 +111,7 @@ content:`
     <div class="right-page">
 
         <h1>Registro</h1>
-<b>19/06/2026</b> - La tripulación es fundada por <b>Haedir</b>.<br>
+<b>20/06/2026</b> - La tripulación es fundada por <b>Haedir</b>.<br>
 
     </div>
 

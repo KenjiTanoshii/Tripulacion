@@ -10,7 +10,11 @@ content:`
 
         <h1>Historia</h1><div style="background: url(https://i.imgur.com/tRziMH2.png); background-size: 100%; align-items: center; width: 230px; height: 230px; margin-top: -30px;"></div>
         <p>
-            Gyakuten es una tripulación formada por aquellos 
+            La tripulación está formada por aquellos que, debido a su ambición, fueron descartados de su propia historia, derrotados por otros cuyas leyendas ahora hablan únicamente de la “victoria”, mientras ellos quedaron relegados al lugar de los olvidados.
+            Cada uno de sus miembros ha sufrido lo que es ser borrado por la historia, privados de lo que se considera un “final feliz”, reducidos a simples derrotados en relatos escritos por manos ajenas.
+            Sin embargo, una derrota no siempre significa el fin. El mundo decide cuándo termina una historia, pero no puede evitar que algunos se nieguen a aceptar ese cierre.
+            Ahora navegan juntos, no como héroes ni como salvadores, sino como aquellos que aún no han permitido que su historia llegue a su último capítulo, y que ahora ellos serán los que se encarguen
+            de borrar a aquellos que han brillado durante tanto tiempo. Porque aún quedan muchas páginas en sus historias.
         </p>
 
         <p>
@@ -65,7 +69,7 @@ content:`
     <div class="right-page">
 
         <h1>Barco</h1>
-        <b>Nombre de barco</b>
+        <b>Dead Letter</b>
 <ul><li>Proa:</li>
 <li>Popa:</li>
 <li>Lateral:</li>
@@ -95,7 +99,7 @@ content:`
 
         <h1>Tripulación</h1>
 <b>Tipo de vida:</b> Morganeer <br>
-<b>Nivel de tripulación:</b> V <br>
+<b>Nivel de tripulación:</b> I <br>
 <b>Jolly Points:</b> <span style="color: green">00</span> / <span style="color: red">00</span> / <span style="color: orange">00</span> <br>
 <b>Mejoras de la tripulación:</b> <br>
 - <br>

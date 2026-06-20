@@ -17,11 +17,6 @@ content:`
             de borrar a aquellos que han brillado durante tanto tiempo. Porque aún quedan muchas páginas en sus historias.
         </p>
 
-        <p>
-            Cómo nació, quién la fundó,
-            sus objetivos y su legado.
-        </p>
-
     </div>
 
 </div>
